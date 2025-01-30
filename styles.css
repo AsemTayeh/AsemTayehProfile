@@ -9,7 +9,7 @@ body {
     background-color: #1d1d1d;
     color: black;
     box-shadow: 5px 5px 5px rgba(255, 0, 170, 0.2);
-    margin-bottom: 12rem;
+    margin-bottom: 6rem;
 }
 .flex {
     display: flex;
