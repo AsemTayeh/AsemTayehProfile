@@ -125,3 +125,8 @@ footer {
     }
 }
 
+@media (max-width: 1800px) {
+    .flexSkills {
+        gap: 1rem;
+    }
+}
