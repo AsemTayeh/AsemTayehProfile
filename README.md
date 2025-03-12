@@ -1,2 +1,2 @@
-# Simple resume website with added styling
+# Portfolio website
 ## See it live here: https://asemtayeh.github.io/AsemTayehProfile/
